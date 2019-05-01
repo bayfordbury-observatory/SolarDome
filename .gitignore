@@ -4,3 +4,5 @@ Bin/
 Release/
 *.epf
 obj/
+*.b#*
+*.s#*
